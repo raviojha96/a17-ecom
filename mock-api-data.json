@@ -1,1 +1,26 @@
-{}
+{
+  "user": [
+    {
+      "name": "Ravi Ojha",
+      "mobNumber": "8094009900",
+      "age": "27",
+      "dob": "1996-12-22",
+      "email": "raviojha500@gmail.com",
+      "password": "123456",
+      "address": {
+        "addLine1": "Mansarowar",
+        "addLine2": "SFS",
+        "city": "Jaipur",
+        "state": "Rajasthan",
+        "zipCode": "302020"
+      },
+      "language": ["English", "Hindi", "Marwari"],
+      "gender": "Male",
+      "aboutYou": "Frontend Dev",
+      "uploadPhoto": "ravi.png",
+      "agreetc": "true",
+      "role": "admin",
+      "id": 1
+    }
+  ]
+}

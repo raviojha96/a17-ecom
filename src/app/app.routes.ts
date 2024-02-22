@@ -33,8 +33,8 @@ export const routes: Routes = [
   {
     path: '',
     children: [
-      { path: 'sing-in', component: SigninSignupComponent },
-      { path: 'sing-up', component: SigninSignupComponent },
+      { path: 'sign-in', component: SigninSignupComponent },
+      { path: 'sign-up', component: SigninSignupComponent },
     ],
   },
   {
